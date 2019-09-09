@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Novo) Projeto Balão", "(Novo) Projeto Balão.csproj", "{1AD239C8-C3DC-1DE1-6C57-C07108435B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Novo) Projeto Balão.Plugins", "(Novo) Projeto Balão.Plugins.csproj", "{EA6AEAFE-86F0-2DD4-3108-A25A3ECD86BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Novo) Projeto Balão.Editor", "(Novo) Projeto Balão.Editor.csproj", "{55E4AB97-6744-395A-355D-A9901E30A42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD239C8-C3DC-1DE1-6C57-C07108435B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD239C8-C3DC-1DE1-6C57-C07108435B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD239C8-C3DC-1DE1-6C57-C07108435B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD239C8-C3DC-1DE1-6C57-C07108435B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6AEAFE-86F0-2DD4-3108-A25A3ECD86BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6AEAFE-86F0-2DD4-3108-A25A3ECD86BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6AEAFE-86F0-2DD4-3108-A25A3ECD86BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6AEAFE-86F0-2DD4-3108-A25A3ECD86BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E4AB97-6744-395A-355D-A9901E30A42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E4AB97-6744-395A-355D-A9901E30A42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E4AB97-6744-395A-355D-A9901E30A42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E4AB97-6744-395A-355D-A9901E30A42C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
