@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <License id="Terms">
+        <MachineBindings>
+            <Binding Key="1" Value="00327-30000-00000-AAOEM"/>
+            <Binding Key="2" Value="4 G9TNHBT4"/>
+            <Binding Key="4" Value="MllNWTlYMg=="/>
+            <Binding Key="5" Value="d0:94:66:b0:fc:e7"/>
+        </MachineBindings>
+        <MachineID Value="nhaEbkJBkMDbKjSeBCH6j+szbRc="/>
+        <SerialHash Value="c10e78657a47cd4186242bb42d96448f730ed4d2"/>
+        <Features>
+            <Feature Value="33"/>
+            <Feature Value="1"/>
+            <Feature Value="12"/>
+            <Feature Value="2"/>
+            <Feature Value="24"/>
+            <Feature Value="3"/>
+            <Feature Value="36"/>
+            <Feature Value="17"/>
+            <Feature Value="19"/>
+            <Feature Value="62"/>
+        </Features>
+        <DeveloperData Value="AQAAAEY0LVlGOVItNzNUWi0zQko5LVBYVFktR0FHOA=="/>
+        <SerialMasked Value="F4-YF9R-73TZ-3BJ9-PXTY-XXXX"/>
+        <StartDate Value="2017-12-14T00:00:00"/>
+        <UpdateDate Value="2019-09-11T22:49:52"/>
+        <InitialActivationDate Value="2017-12-14T14:09:32"/>
+        <LicenseVersion Value="6.x"/>
+        <ClientProvidedVersion Value="2017.2.0"/>
+        <AlwaysOnline Value="false"/>
+        <Entitlements>
+            <Entitlement Ns="unity_editor" Tag="UnityPersonal" Type="EDITOR" ValidTo="9999-12-31T00:00:00"/>
+        </Entitlements>
+    </License>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>iiCm7MiJsM54tJw8ZvaM24N7lWc=</DigestValue></Reference></SignedInfo><SignatureValue>Vb4dUwHB3X1vYJil3FxFTuWZUhslKdsuQTZY1SAAhfMgPSFLTeMM784sCnewEtErgAiVhcahiKeC
+CmVBq1BPLx0bbyaTIMyHpow11WH0CQkT9jMoqMA5Fmg67MoAcmhepjl79dtgwQEdUdoneVZKi4TY
+nbuouN/ccKgtVmns+dXtmDA73BF4IZ7UvJjNMbO8M1GZ02OQiBZ/Azv6AfjwLs/XgdQY20TWjwIK
+/FfPJ0caSBIFGjIlNbMR56s8gGX8wJdbwumTk6UXLAPmZil+Ige0r7/3qjVGJRYarl+/885b3iAN
+D58kKpCZU1fyigSweTwoPbK27KAjCEva7SfClQ==</SignatureValue></Signature></root>
